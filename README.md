@@ -52,4 +52,4 @@ The dashboard helps understand:
 
 ## 🔗 Project Link
 
-[PASTE GITHUB LINK HERE]
+[[PASTE GITHUB LINK HERE](https://github.com/AnandKumarAnamaina/FOOD-DELIVERY-ANALYTICS-DASHBOARD-Power-BI-Project.git)]
